@@ -1,0 +1,7 @@
+pyext
+datasets==3.0.0
+accelerate==0.29.3
+transformers==4.40.1
+jsonlines
+evaluate==0.4.3
+tqdm

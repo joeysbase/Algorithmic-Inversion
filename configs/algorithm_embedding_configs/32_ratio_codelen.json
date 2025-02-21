@@ -1,0 +1,122 @@
+{
+    "greedy": {
+        "abs_pos": 0,
+        "shift": 1
+    },
+    "math": {
+        "abs_pos": 1,
+        "shift": 1
+    },
+    "divide and conquer": {
+        "abs_pos": 2,
+        "shift": 1
+    },
+    "search": {
+        "abs_pos": 3,
+        "shift": 1
+    },
+    "sorting": {
+        "abs_pos": 4,
+        "shift": 1
+    },
+    "data structure": {
+        "abs_pos": 5,
+        "shift": 1
+    },
+    "simulation": {
+        "abs_pos": 6,
+        "shift": 1
+    },
+    "memorization": {
+        "abs_pos": 7,
+        "shift": 1
+    },
+    "implementation": {
+        "abs_pos": 8,
+        "shift": 1
+    },
+    "constructive algorithm": {
+        "abs_pos": 9,
+        "shift": 1
+    },
+    "shortest path": {
+        "abs_pos": 10,
+        "shift": 2
+    },
+    "interactive": {
+        "abs_pos": 11,
+        "shift": 1
+    },
+    "bitmask": {
+        "abs_pos": 12,
+        "shift": 1
+    },
+    "2-sat": {
+        "abs_pos": 13,
+        "shift": 2
+    },
+    "fft": {
+        "abs_pos": 14,
+        "shift": 1
+    },
+    "string suffix structure": {
+        "abs_pos": 15,
+        "shift": 1
+    },
+    "brute force": {
+        "abs_pos": 16,
+        "shift": 1
+    },
+    "dynamic programming": {
+        "abs_pos": 17,
+        "shift": 1
+    },
+    "two pointers": {
+        "abs_pos": 18,
+        "shift": 1
+    },
+    "recursion": {
+        "abs_pos": 19,
+        "shift": 1
+    },
+    "sliding window": {
+        "abs_pos": 20,
+        "shift": 1
+    },
+    "prefix sum": {
+        "abs_pos": 21,
+        "shift": 1
+    },
+    "backtracking": {
+        "abs_pos": 22,
+        "shift": 1
+    },
+    "bit manipulation": {
+        "abs_pos": 23,
+        "shift": 1
+    },
+    "data stream": {
+        "abs_pos": 24,
+        "shift": 1
+    },
+    "design": {
+        "abs_pos": 25,
+        "shift": 1
+    },
+    "enumeration": {
+        "abs_pos": 26,
+        "shift": 1
+    },
+    "counting": {
+        "abs_pos": 27,
+        "shift": 1
+    },
+    "randomized": {
+        "abs_pos": 28,
+        "shift": 1
+    },
+    "special": {
+        "abs_pos": 29,
+        "shift": 1
+    }
+}

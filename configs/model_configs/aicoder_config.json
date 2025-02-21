@@ -1,0 +1,22 @@
+{
+    "decoder_path": "./models/qwen/Qwen2.5-Coder-1.5B",
+    "dimension": "auto",
+    "require_MLP": false,
+    "init_from_embedding": true,
+    "position": "prefix",
+    "tag_rep_scheme": "partial",
+    "MLP": [
+        128,
+        256,
+        512,
+        1024,
+        2048,
+        4096,
+        4096,
+        4096,
+        4096,
+        4096,
+        4096
+    ],
+    "prefix_config": "auto"
+}
