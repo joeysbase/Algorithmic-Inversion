@@ -1,1 +1,122 @@
-{"greedy": {"abs_pos": 0, "shift": 4}, "math": {"abs_pos": 1, "shift": 4}, "divide and conquer": {"abs_pos": 2, "shift": 5}, "search": {"abs_pos": 3, "shift": 5}, "sorting": {"abs_pos": 4, "shift": 4}, "data structure": {"abs_pos": 5, "shift": 4}, "simulation": {"abs_pos": 6, "shift": 2}, "memorization": {"abs_pos": 7, "shift": 4}, "implementation": {"abs_pos": 8, "shift": 4}, "constructive algorithm": {"abs_pos": 9, "shift": 4}, "shortest path": {"abs_pos": 10, "shift": 6}, "interactive": {"abs_pos": 11, "shift": 5}, "bitmask": {"abs_pos": 12, "shift": 5}, "2-sat": {"abs_pos": 13, "shift": 6}, "fft": {"abs_pos": 14, "shift": 5}, "string suffix structure": {"abs_pos": 15, "shift": 5}, "brute force": {"abs_pos": 16, "shift": 4}, "dynamic programming": {"abs_pos": 17, "shift": 5}, "two pointers": {"abs_pos": 18, "shift": 4}, "recursion": {"abs_pos": 19, "shift": 3}, "sliding window": {"abs_pos": 20, "shift": 3}, "prefix sum": {"abs_pos": 21, "shift": 3}, "backtracking": {"abs_pos": 22, "shift": 3}, "bit manipulation": {"abs_pos": 23, "shift": 3}, "data stream": {"abs_pos": 24, "shift": 3}, "design": {"abs_pos": 25, "shift": 3}, "enumeration": {"abs_pos": 26, "shift": 3}, "counting": {"abs_pos": 27, "shift": 2}, "randomized": {"abs_pos": 28, "shift": 3}, "special": {"abs_pos": 29, "shift": 3}}
+{
+    "greedy": {
+        "abs_pos": 0,
+        "shift": 4
+    },
+    "math": {
+        "abs_pos": 1,
+        "shift": 4
+    },
+    "divide and conquer": {
+        "abs_pos": 2,
+        "shift": 5
+    },
+    "search": {
+        "abs_pos": 3,
+        "shift": 5
+    },
+    "sorting": {
+        "abs_pos": 4,
+        "shift": 4
+    },
+    "data structure": {
+        "abs_pos": 5,
+        "shift": 4
+    },
+    "simulation": {
+        "abs_pos": 6,
+        "shift": 2
+    },
+    "memorization": {
+        "abs_pos": 7,
+        "shift": 4
+    },
+    "implementation": {
+        "abs_pos": 8,
+        "shift": 4
+    },
+    "constructive algorithm": {
+        "abs_pos": 9,
+        "shift": 4
+    },
+    "shortest path": {
+        "abs_pos": 10,
+        "shift": 6
+    },
+    "interactive": {
+        "abs_pos": 11,
+        "shift": 5
+    },
+    "bitmask": {
+        "abs_pos": 12,
+        "shift": 5
+    },
+    "2-sat": {
+        "abs_pos": 13,
+        "shift": 6
+    },
+    "fft": {
+        "abs_pos": 14,
+        "shift": 5
+    },
+    "string suffix structure": {
+        "abs_pos": 15,
+        "shift": 5
+    },
+    "brute force": {
+        "abs_pos": 16,
+        "shift": 4
+    },
+    "dynamic programming": {
+        "abs_pos": 17,
+        "shift": 5
+    },
+    "two pointers": {
+        "abs_pos": 18,
+        "shift": 4
+    },
+    "recursion": {
+        "abs_pos": 19,
+        "shift": 3
+    },
+    "sliding window": {
+        "abs_pos": 20,
+        "shift": 3
+    },
+    "prefix sum": {
+        "abs_pos": 21,
+        "shift": 3
+    },
+    "backtracking": {
+        "abs_pos": 22,
+        "shift": 3
+    },
+    "bit manipulation": {
+        "abs_pos": 23,
+        "shift": 3
+    },
+    "data stream": {
+        "abs_pos": 24,
+        "shift": 3
+    },
+    "design": {
+        "abs_pos": 25,
+        "shift": 3
+    },
+    "enumeration": {
+        "abs_pos": 26,
+        "shift": 3
+    },
+    "counting": {
+        "abs_pos": 27,
+        "shift": 2
+    },
+    "randomized": {
+        "abs_pos": 28,
+        "shift": 3
+    },
+    "special": {
+        "abs_pos": 29,
+        "shift": 3
+    }
+}
